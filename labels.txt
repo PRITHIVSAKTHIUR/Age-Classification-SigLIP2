@@ -1,0 +1,7 @@
+    labels = {
+        "0": "Child 0-12", 
+        "1": "Teenager 13-20", 
+        "2": "Adult 21-44", 
+        "3": "Middle Age 45-64", 
+        "4": "Aged 65+"
+    }
