@@ -88,7 +88,9 @@ if __name__ == "__main__":
 ![Screenshot 2025-03-28 at 12-25-46 Age Group Classification.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/ARlNhc-ZxqfBntu-SkIVH.png)
 
 ---
+![Screenshot 2025-03-28 at 23-57-45 Age Classification SigLIP2 - a Hugging Face Space by prithivMLmods](https://github.com/user-attachments/assets/499542ed-2aed-460f-96b6-2a46cc0f8a27)
 
+---
 ![Screenshot 2025-03-28 at 12-36-49 Age Group Classification.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/tvZ2VMoaQqNKdIx39DrTe.png)
 
 # **Intended Use:**  
